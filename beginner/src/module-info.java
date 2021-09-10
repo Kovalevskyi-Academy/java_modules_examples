@@ -1,0 +1,3 @@
+module beginner {
+  requires calcIMPL;
+}
